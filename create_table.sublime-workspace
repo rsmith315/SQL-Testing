@@ -1,0 +1,480 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "create_table_insert_data",
+			"settings":
+			{
+				"buffer_size": 445,
+				"line_ending": "Windows",
+				"name": "/**Creating a table and inserting data"
+			}
+		},
+		{
+			"file": "PRIMARY KEY AUTOINCREMENT",
+			"settings":
+			{
+				"buffer_size": 669,
+				"line_ending": "Windows",
+				"name": "CREATE TABLE exercise_logs"
+			}
+		},
+		{
+			"file": "AND_OR",
+			"settings":
+			{
+				"buffer_size": 667,
+				"line_ending": "Windows",
+				"name": "CREATE TABLE exercise_logs"
+			}
+		},
+		{
+			"file": "IN-SUBQUERIES-LIKE",
+			"settings":
+			{
+				"buffer_size": 1718,
+				"line_ending": "Windows",
+				"name": "CREATE TABLE exercise_logs"
+			}
+		},
+		{
+			"file": "Playlist Maker-NESTED IN",
+			"settings":
+			{
+				"buffer_size": 2289,
+				"line_ending": "Windows",
+				"name": "CREATE TABLE artists ("
+			}
+		},
+		{
+			"file": "HAVING",
+			"settings":
+			{
+				"buffer_size": 1358,
+				"line_ending": "Windows",
+				"name": "CREATE TABLE exercise_logs"
+			}
+		},
+		{
+			"file": "The wordiest author-GROUP BY_HAVING_AS",
+			"settings":
+			{
+				"buffer_size": 1932,
+				"line_ending": "Windows",
+				"name": "CREATE TABLE books ("
+			}
+		},
+		{
+			"file": "CASE.sql",
+			"settings":
+			{
+				"buffer_size": 1787,
+				"line_ending": "Windows",
+				"name": "CREATE TABLE exercise_logs"
+			}
+		},
+		{
+			"file": "Gradebook.sql",
+			"settings":
+			{
+				"buffer_size": 1121,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/rsmith.CORE/Documents/2. CTI Projects/Sublime MISC/iferror index match",
+		"/C/Users/rsmith.CORE/Documents/2. CTI Projects/Sublime MISC/when converting CSV to PSV, search the following f",
+		"/C/Users/rsmith.CORE/Documents/2. CTI Projects/Sublime MISC/OutputFOCD VBA Code",
+		"/C/Users/rsmith.CORE/Documents/2. CTI Projects/Sublime MISC/EIS BSS CSR Info",
+		"/C/Users/rsmith.CORE/Documents/2. CTI Projects/Sublime MISC/TFC - MD DoIT",
+		"/C/Users/rsmith.CORE/Documents/2. CTI Projects/9. sharepoint/One - TIme List Data Transfere",
+		"//coretechnfr.serverdata.net@SSL/DavWWWRoot/Shared Documents/Proposals/2. Go Decisions/2. QTCDAB17RC10.6sitesGA.BL.092617/2. WIP/QTCDAB17RC10 Cost Analysis.txt",
+		"/C/Users/rsmith.CORE/Documents/2. CTI Projects/9. sharepoint/Remove-PSSnapin Microsoft.SharePoint.PowerShell -e.v2"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"SPweb",
+			"\"",
+			"$dstListSiteUrl"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "create_table_insert_data",
+					"settings":
+					{
+						"buffer_size": 445,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								445,
+								445
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/**Creating a table and inserting data",
+							"syntax": "Packages/SQL/SQL.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "PRIMARY KEY AUTOINCREMENT",
+					"settings":
+					{
+						"buffer_size": 669,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								669,
+								669
+							]
+						],
+						"settings":
+						{
+							"auto_name": "CREATE TABLE exercise_logs",
+							"syntax": "Packages/SQL/SQL.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "AND_OR",
+					"settings":
+					{
+						"buffer_size": 667,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								667,
+								667
+							]
+						],
+						"settings":
+						{
+							"auto_name": "CREATE TABLE exercise_logs",
+							"syntax": "Packages/SQL/SQL.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "IN-SUBQUERIES-LIKE",
+					"settings":
+					{
+						"buffer_size": 1718,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1718,
+								1718
+							]
+						],
+						"settings":
+						{
+							"auto_name": "CREATE TABLE exercise_logs",
+							"syntax": "Packages/SQL/SQL.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Playlist Maker-NESTED IN",
+					"settings":
+					{
+						"buffer_size": 2289,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2289,
+								2289
+							]
+						],
+						"settings":
+						{
+							"auto_name": "CREATE TABLE artists (",
+							"syntax": "Packages/SQL/SQL.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 341.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "HAVING",
+					"settings":
+					{
+						"buffer_size": 1358,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1358,
+								1358
+							]
+						],
+						"settings":
+						{
+							"auto_name": "CREATE TABLE exercise_logs",
+							"syntax": "Packages/SQL/SQL.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 460.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "The wordiest author-GROUP BY_HAVING_AS",
+					"settings":
+					{
+						"buffer_size": 1932,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1718,
+								1719
+							]
+						],
+						"settings":
+						{
+							"auto_name": "CREATE TABLE books (",
+							"syntax": "Packages/SQL/SQL.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 381.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "CASE.sql",
+					"settings":
+					{
+						"buffer_size": 1787,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1787,
+								1787
+							]
+						],
+						"settings":
+						{
+							"auto_name": "CREATE TABLE exercise_logs",
+							"syntax": "Packages/SQL/SQL.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "Gradebook.sql",
+					"settings":
+					{
+						"buffer_size": 1121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								500,
+								500
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

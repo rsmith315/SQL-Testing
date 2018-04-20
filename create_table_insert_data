@@ -1,0 +1,20 @@
+/**Creating a table and inserting data
+**/
+
+/**List Information
+table name: students
+columns: first_name, last_name
+Amy Bridge
+Susan Red
+Burt Kent
+Austin Powers
+**/
+
+CREATE TABLE students (id INTEGER PRIMARY KEY, first_name TEXT, last_name TEXT);
+
+INSERT INTO students (1, "Amy", "Bridge");
+INSERT INTO students (2, "Susan", "Red");
+INSERT INTO students (3, "Burt", "Kent");
+INSERT INTO students (4, "Austin", "Powers");
+
+SELECT * FROM students;
